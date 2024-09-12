@@ -1,1 +1,5 @@
-xiaojianding.com
+Type: CNAME
+Name: www
+Value: <xiaojianding>.github.io
+TTL: 3600
+
